@@ -18,4 +18,4 @@ A bash script to analyse basic server performance stats.
 3. **Execute the script**  
    `   ./log-archive.sh "/var/log"`
 
-This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
+This project is part of [roadmap.sh](https://roadmap.sh/projects/log-archive-tool) DevOps projects.
