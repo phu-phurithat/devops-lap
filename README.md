@@ -11,7 +11,7 @@
 9. [Dummy Systemd Service](https://roadmap.sh/projects/dummy-systemd-service) ✅
 10. Basic Dockerfile
 11. EC2 Instance
-12. Configuration Management
+12. [Configuration Management](https://roadmap.sh/projects/configuration-management) ✅
 13. IaC on DigitalOcean
 14. Node.js Service Deployment
 15. Dockerized Service
